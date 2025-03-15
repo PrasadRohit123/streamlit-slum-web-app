@@ -1,6 +1,6 @@
 # Streamlit Web App
 
-This is a basic Streamlit web application. You can access it [here](https://app-webapp-jz6jwhbyf5ootu2spapjtw.streamlit.app/).
+This is a basic Streamlit web application. You can access it [here](https://app-slum-web-app-ur3bwvqmdin8zuw8w5v4cy.streamlit.app/).
 
 ## Features
 - Interactive UI
